@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PwnAdventure Hax", "PwnAdventure Hax\PwnAdventure Hax.vcxproj", "{82F9267F-CB7E-48DB-9B01-9710A60EC255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F9267F-CB7E-48DB-9B01-9710A60EC255}.Debug|x64.ActiveCfg = Debug|x64
+		{82F9267F-CB7E-48DB-9B01-9710A60EC255}.Debug|x64.Build.0 = Debug|x64
+		{82F9267F-CB7E-48DB-9B01-9710A60EC255}.Debug|x86.ActiveCfg = Debug|Win32
+		{82F9267F-CB7E-48DB-9B01-9710A60EC255}.Debug|x86.Build.0 = Debug|Win32
+		{82F9267F-CB7E-48DB-9B01-9710A60EC255}.Release|x64.ActiveCfg = Release|x64
+		{82F9267F-CB7E-48DB-9B01-9710A60EC255}.Release|x64.Build.0 = Release|x64
+		{82F9267F-CB7E-48DB-9B01-9710A60EC255}.Release|x86.ActiveCfg = Release|Win32
+		{82F9267F-CB7E-48DB-9B01-9710A60EC255}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF19CA64-F5A6-4572-9B53-C93955FC3E53}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+#define PWNADVENTUREHAX_API __declspec(dllexport)
+#define PWNADVENTUREHAX_API __declspec(dllimport)
